@@ -10,7 +10,7 @@ collections:
     output: true
 description: LTP website
 author: prasad
-logo: 
+logo: "/uploads/ltplogo.png"
 github: 
 about: Web developer
 baseurl: 
