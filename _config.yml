@@ -22,8 +22,8 @@ share:
   twitter_username: "\\#"
   fb_appid: 
 enableTags: true
-paginate: 20
-per_page: 20
+paginate: 1
+per_page: 1
 paginate_path: "/page:num/"
 markdown: kramdown
 gems:
