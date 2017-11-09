@@ -1,28 +1,32 @@
+---
 title: Let's Talk Payments
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 description: LTP website
 author: prasad
 logo: 
 github: 
 about: Web developer
-
-baseurl: '/medici'
-url: ""
-
+baseurl: "/medici"
+url: ''
 allowsearch: true
-
 disqus_shortname: prasad
 google_analytics: 
-
 share:
-  twitter_username: \#
+  twitter_username: "\\#"
   fb_appid: 
-
-
 enableTags: true
 tagarray: []
-
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
 markdown: kramdown
-gems: [jekyll-paginate, jekyll-gist]
+gems:
+- jekyll-paginate
+- jekyll-gist
