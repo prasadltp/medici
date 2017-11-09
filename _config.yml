@@ -1,9 +1,9 @@
-title: Lets Talk Payments - zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-description: My Personal Blog
+title: Let's Talk Payments
+description: LTP website
 author: prasad
 logo: 
 github: 
-about: Freelance developer
+about: Web developer
 
 baseurl: '/medici'
 url: ""
@@ -11,11 +11,11 @@ url: ""
 allowsearch: true
 
 disqus_shortname: prasad
-google_analytics: UA-72862926-1
+google_analytics: 
 
 share:
   twitter_username: \#
-  fb_appid: 000000000000
+  fb_appid: 
 
 
 enableTags: true
