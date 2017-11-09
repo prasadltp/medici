@@ -5,11 +5,19 @@ description: >
   A guide to getting started with Jekyll.
 baseurl: "/medici"
 url: "http://prasadltp.github.io"
+permalink: /:year/:month/:day/:title
 twitter_username: nnvdprasad
 github_username:  prasadltp
-# Build Settings
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
 sass:
-  sass_dir: _sass
-include: ['_pages']
-kramdown:
-  input: GFM
+  style: compressed
+future: true
