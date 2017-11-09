@@ -1,10 +1,14 @@
 ---
 title: Insurers Will Still Be Relevant in the Future, Even More Than Yesterday
-date: 2017-03-24 17:30:00 Z
+date: 2017-11-09 16:30:00 Z
 categories:
 - default
 tags:
 - test
+- US
+- EUROPE
+- INSIGHTS
+author: Matteo Carbone
 layout: post
 ---
 
