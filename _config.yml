@@ -5,7 +5,7 @@ logo:
 github: 
 about: Freelance developer
 
-baseurl: ""
+baseurl: '/medici'
 url: ""
 
 allowsearch: true
