@@ -1,8 +1,9 @@
 ---
 title: Tags
-layout: page
 css:
 - tags.css
+Add Tag: action-url
+layout: page
 ---
 
 {% include tags.html %}
